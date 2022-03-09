@@ -1,6 +1,6 @@
 ### Hi there 👋, Faliqul Isbah
 #### Front End Devlopment
-![Front End Devlopment](https://pbs.twimg.com/profile_banners/1054752057565970432/1644760012/600x200)
+![image](https://drive.google.com/file/d/1VH5GP3oTorAbqyLNz-iSbJ5zP0yMEeHj/view?usp=sharing)
 
 I'm Faliq from Indonesia. I really enjoy learning languages and frameworks like React and React Native, I made this project just for fun.
 
