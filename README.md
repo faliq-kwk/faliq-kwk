@@ -3,9 +3,9 @@
 #### Front End Devlopment
 ![Front End Devlopment](https://pbs.twimg.com/profile_banners/1501485294482505731/1646817055/600x200)
 
-I'm Faliq from Indonesia. I really enjoy learning languages and frameworks like React and React Native, I made this project just for fun.
+I'm Faliq from Indonesia. I really enjoy learning languages and frameworks like ReactJS, I made this project just for fun.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACTJS / JS / HTML / CSS
 
 
 
